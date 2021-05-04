@@ -1,0 +1,38 @@
+
+body {
+    background-color: cornflowerblue;
+}
+
+h1, h2, h3, h4 {
+    color: #202020;
+}
+
+
+.about-me {
+    font-family: "Times New Roman";
+}
+
+.inner {
+    margin: 5% 20%;
+    background-color: #f0f0d0;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+image {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+footer {
+    position: fixed;
+    bottom: 5px;
+    padding: 20px;
+    background-color: white;
+    width: 100%;
+    margin: -5px;
+}
+
+footer > a {
+    padding: 0 10px;
+}
